@@ -1,0 +1,595 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/bulgaria2.xml.gz"
+#EXTM3U tvg-url="http://is.gd/tvbgepg"
+#EXTM3U tvg-url="https://dl.dropboxusercontent.com/s/xg6c7av61p1jdoq/epg.xml.gz;https://raw.githubusercontent.com/harrygg/EPG/master/epg.xml.gz"
+#EXTM3U x-tvg-url="https://picon-13398.kxcdn.com/"
+#EXTM3U:
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="SOUL&PEPPERFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985778.png" group-title="BG| BULGARIA",BG | SOUL & PEPPER FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985778&extension=ts
+#EXTINF:-1 tvg-id="TV1000" tvg-name="100AUTOMOTOFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BG| BULGARIA",BG| 100 AUTOMOTO TV FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1517948&extension=ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24KITCHEN" tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BG| BULGARIA",BG| 24 KITCHEN
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154757&extension=ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24KITCHEN" tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BG| BULGARIA",BG| 24 KITCHEN HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154758&extension=ts
+#EXTINF:-1 tvg-id="360TuneBoxHD" tvg-name="360TUNEBOXFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BG| BULGARIA",BG| 360 TUNEBOX FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1532094&extension=ts
+#EXTINF:-1 tvg-id="78TV" tvg-name="7/8" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BG| BULGARIA",BG| 7/8 TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1994424&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="7/8FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BG| BULGARIA",BG| 7/8 TV FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154816&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO" tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BG| BULGARIA",BG| AGRO TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154765&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALFA" tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BG| BULGARIA",BG| ALFA TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154766&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BG| BULGARIA",BG| AMC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154760&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALPLANET" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BG| BULGARIA",BG| ANIMAL PLANET
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154767&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALPLANET" tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BG| BULGARIA",BG| ANIMAL PLANET HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154768&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENAACTION" tvg-logo="http://51.158.145.100/picons/logos/logos/154759.png" group-title="BG| BULGARIA",BG| ARENA ACTION HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154759&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENACOMEDY" tvg-logo="http://51.158.145.100/picons/logos/logos/154808.png" group-title="BG| BULGARIA",BG| ARENA COMEDY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154808&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENALIFE" tvg-logo="http://51.158.145.100/picons/logos/logos/154809.png" group-title="BG| BULGARIA",BG| ARENA LIFE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154809&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTOSPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BG| BULGARIA",BG| AUTO MOTO SPORT HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154761&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BG| BULGARIA",BG| AXN
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154762&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AXNBLACK" tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BG| BULGARIA",BG| AXN BLACK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154763&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AXNWHITE" tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BG| BULGARIA",BG| AXN WHITE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154764&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY" tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BG| BULGARIA",BG| BABY TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154770&extension=ts
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="BALKANMUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BG| BULGARIA",BG| BALKAN MUSIC TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1525615&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BALKANIKAMUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BG| BULGARIA",BG| BALKANIKA MUSIC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154794&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BALKANIKAMUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BG| BULGARIA",BG| BALKANIKA MUSIC TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154795&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BG| BULGARIA",BG| BG MUSIC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154771&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BG| BULGARIA",BG| BG MUSIC HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154772&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BG| BULGARIA",BG| BHTV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154774&extension=ts
+#EXTINF:-1 tvg-id="BloombergTVBulgaria" tvg-name="BLOOMBERG" tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BG| BULGARIA",BG| BLOOMBERG
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154776&extension=ts
+#EXTINF:-1 tvg-id="BloombergTVBulgaria" tvg-name="BLOOMBERGBULGARIA" tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BG| BULGARIA",BG| BLOOMBERG TV BULGARIA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154797&extension=ts
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT1" tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BG| BULGARIA",BG| BNT 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154778&extension=ts
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT1FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BG| BULGARIA",BG| BNT 1 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154779&extension=ts
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BG| BULGARIA",BG| BNT 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154780&extension=ts
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT2FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BG| BULGARIA",BG| BNT 2 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154781&extension=ts
+#EXTINF:-1 tvg-id="BNT3" tvg-name="BNT3FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BG| BULGARIA",BG| BNT 3 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154782&extension=ts
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT4FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154783.png" group-title="BG| BULGARIA",BG| BNT 4 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154783&extension=ts
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT4" tvg-logo="http://51.158.145.100/picons/logos/logos/154784.png" group-title="BG| BULGARIA",BG| BNT 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154784&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNTWORD" tvg-logo="http://51.158.145.100/picons/logos/logos/154785.png" group-title="BG| BULGARIA",BG| BNT WORD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154785&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BOX" tvg-logo="http://51.158.145.100/picons/logos/logos/154800.png" group-title="BG| BULGARIA",BG| BOX HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154800&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BOX" tvg-logo="http://51.158.145.100/picons/logos/logos/154786.png" group-title="BG| BULGARIA",BG| BOX TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154786&extension=ts
+#EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154787.png" group-title="BG| BULGARIA",BG| BTV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154787&extension=ts
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="BTVACTIONFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154945.png" group-title="BG| BULGARIA",BG| BTV ACTION FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154945&extension=ts
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="BTVACTION" tvg-logo="http://51.158.145.100/picons/logos/logos/154788.png" group-title="BG| BULGARIA",BG| BTV ACTION HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154788&extension=ts
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="BTVCINEMA" tvg-logo="http://51.158.145.100/picons/logos/logos/154789.png" group-title="BG| BULGARIA",BG| BTV CINEMA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154789&extension=ts
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="BTVCOMEDY" tvg-logo="http://51.158.145.100/picons/logos/logos/154790.png" group-title="BG| BULGARIA",BG| BTV COMEDY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154790&extension=ts
+#EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BG| BULGARIA",BG| BTV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154791&extension=ts
+#EXTINF:-1 tvg-id="bTVLady" tvg-name="BTVSTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/154792.png" group-title="BG| BULGARIA",BG| BTV STORY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154792&extension=ts
+#EXTINF:-1 tvg-id="bTVStory" tvg-name="BTVSTORYFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1374365.png" group-title="BG| BULGARIA",BG| BTV STORY FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1374365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BULGARIA24" tvg-logo="http://51.158.145.100/picons/logos/logos/154801.png" group-title="BG| BULGARIA",BG| BULGARIA 24
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154801&extension=ts
+#EXTINF:-1 tvg-id="BulgariaONAIR" tvg-name="BULGARIAONAIR" tvg-logo="http://51.158.145.100/picons/logos/logos/154798.png" group-title="BG| BULGARIA",BG| BULGARIA ON AIR
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154798&extension=ts
+#EXTINF:-1 tvg-id="BulgariaONAIR" tvg-name="BULGARIAONAIR" tvg-logo="http://51.158.145.100/picons/logos/logos/154802.png" group-title="BG| BULGARIA",BG| BULGARIA ON AIR HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154802&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="C&INETWORK" tvg-logo="http://51.158.145.100/picons/logos/logos/154803.png" group-title="BG| BULGARIA",BG| C&I NETWORK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154803&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONNETWORKFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154804.png" group-title="BG| BULGARIA",BG| CARTOON NETWORK FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154804&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITOFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="BG| BULGARIA",BG| CARTOONITO FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154799&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CBSREAILTY" tvg-logo="http://51.158.145.100/picons/logos/logos/154805.png" group-title="BG| BULGARIA",BG| CBS REAILTY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154805&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIAFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1758108.png" group-title="BG| BULGARIA",BG| CINEMANIA FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758108&extension=ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/154810.png" group-title="BG| BULGARIA",BG| CINEMAX
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154810&extension=ts
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="CINEMAX2" tvg-logo="http://51.158.145.100/picons/logos/logos/154811.png" group-title="BG| BULGARIA",BG| CINEMAX 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154811&extension=ts
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="CINEMAX2" tvg-logo="http://51.158.145.100/picons/logos/logos/154812.png" group-title="BG| BULGARIA",BG| CINEMAX 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154812&extension=ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/154813.png" group-title="BG| BULGARIA",BG| CINEMAX HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154813&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="CINESTAR1FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985802.png" group-title="BG| BULGARIA",BG| CINESTAR 1 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985802&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="CINESTARACTIONFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985801.png" group-title="BG| BULGARIA",BG| CINESTAR ACTION FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985801&extension=ts
+#EXTINF:-1 tvg-id="CityTV" tvg-name="CITY" tvg-logo="http://51.158.145.100/picons/logos/logos/154806.png" group-title="BG| BULGARIA",BG| CITY TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154806&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CODEFASHION" tvg-logo="http://51.158.145.100/picons/logos/logos/154814.png" group-title="BG| BULGARIA",BG| CODE FASHION TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154814&extension=ts
+#EXTINF:-1 tvg-id="CodeHealth" tvg-name="CODEHEALTH" tvg-logo="http://51.158.145.100/picons/logos/logos/1491967.png" group-title="BG| BULGARIA",BG| CODE HEALTH TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1491967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAVINCILEARNING" tvg-logo="http://51.158.145.100/picons/logos/logos/154825.png" group-title="BG| BULGARIA",BG| DAVINCI LEARNING
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154825&extension=ts
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMAFAMILY" tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BG| BULGARIA",BG| DIEMA FAMILY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154817&extension=ts
+#EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="http://51.158.145.100/picons/logos/logos/154818.png" group-title="BG| BULGARIA",BG| DIEMA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154818&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DIEMASPORT1" tvg-logo="http://51.158.145.100/picons/logos/logos/154819.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154819&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DIEMASPORT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DIEMASPORT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154820&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DIEMASPORT3FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154916.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 3 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154916&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport3" tvg-name="DIEMASPORT3" tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="BG| BULGARIA",BG| DIEMA SPORT 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1457953&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DIEMASPORTFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png" group-title="BG| BULGARIA",BG| DIEMA SPORT FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154827&extension=ts
+#EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="http://51.158.145.100/picons/logos/logos/154821.png" group-title="BG| BULGARIA",BG| DIEMA TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154821&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154828.png" group-title="BG| BULGARIA",BG| DISCOVERY CHANNEL HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154828&extension=ts
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="DISNEYCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154822.png" group-title="BG| BULGARIA",BG| DISNEY CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154822&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEYJUNIOR" tvg-logo="http://51.158.145.100/picons/logos/logos/154832.png" group-title="BG| BULGARIA",BG| DISNEY JUNIOR
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154832&extension=ts
+#EXTINF:-1 tvg-id="DiZi" tvg-name="DIZIFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1758308.png" group-title="BG| BULGARIA",BG| DIZI TV FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758308&extension=ts
+#EXTINF:-1 tvg-id="StingrayDJAZZ" tvg-name="DJAZZ" tvg-logo="http://51.158.145.100/picons/logos/logos/1532093.png" group-title="BG| BULGARIA",BG| DJAZZ HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1532093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX" tvg-logo="http://51.158.145.100/picons/logos/logos/154833.png" group-title="BG| BULGARIA",BG| DOCUBOX HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154833&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154824.png" group-title="BG| BULGARIA",BG| DSTV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154824&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DUCK" tvg-logo="http://51.158.145.100/picons/logos/logos/154834.png" group-title="BG| BULGARIA",BG| DUCK TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154834&extension=ts
+#EXTINF:-1 tvg-id="EKids" tvg-name="EKIDS" tvg-logo="http://51.158.145.100/picons/logos/logos/154835.png" group-title="BG| BULGARIA",BG| E-KIDS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154835&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EPICDRAMA" tvg-logo="http://51.158.145.100/picons/logos/logos/154840.png" group-title="BG| BULGARIA",BG| EPICDRAMA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154840&extension=ts
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EURONEWSFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154923.png" group-title="BG| BULGARIA",BG| EURONEWS FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154923&extension=ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/154836.png" group-title="BG| BULGARIA",BG| EUROSPORT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154836&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154841.png" group-title="BG| BULGARIA",BG| EUROSPORT 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154841&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154837.png" group-title="BG| BULGARIA",BG| EUROSPORT 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154837&extension=ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/154842.png" group-title="BG| BULGARIA",BG| EUROSPORT HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154842&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EVROKOM" tvg-logo="http://51.158.145.100/picons/logos/logos/154838.png" group-title="BG| BULGARIA",BG| EVROKOM
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154838&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EVROKOM" tvg-logo="http://51.158.145.100/picons/logos/logos/154839.png" group-title="BG| BULGARIA",BG| EVROKOM HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154839&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FENFOLK" tvg-logo="http://51.158.145.100/picons/logos/logos/154850.png" group-title="BG| BULGARIA",BG| FEN FOLK TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154850&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="http://51.158.145.100/picons/logos/logos/154844.png" group-title="BG| BULGARIA",BG| FEN TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154844&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="http://51.158.145.100/picons/logos/logos/154845.png" group-title="BG| BULGARIA",BG| FEN TV SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154845&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX" tvg-logo="http://51.158.145.100/picons/logos/logos/154851.png" group-title="BG| BULGARIA",BG| FIGHTBOX HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154851&extension=ts
+#EXTINF:-1 tvg-id="FightKlub" tvg-name="FIGHTKLUBFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1758311.png" group-title="BG| BULGARIA",BG| FIGHTKLUB FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758311&extension=ts
+#EXTINF:-1 tvg-id="FilmBoXtraHD" tvg-name="FILMBOXEXTRA" tvg-logo="http://51.158.145.100/picons/logos/logos/1339771.png" group-title="BG| BULGARIA",BG| FILMBOX EXTRA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1339771&extension=ts
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="FILMBOX" tvg-logo="http://51.158.145.100/picons/logos/logos/1339772.png" group-title="BG| BULGARIA",BG| FILMBOX HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1339772&extension=ts
+#EXTINF:-1 tvg-id="FilmBoxStars" tvg-name="FILMBOXSTARS" tvg-logo="http://51.158.145.100/picons/logos/logos/1339773.png" group-title="BG| BULGARIA",BG| FILMBOX STARS HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1339773&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="FISHING&HUNTINGFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985803.png" group-title="BG| BULGARIA",BG| FISHING & HUNTING FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985803&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FOLKLOR" tvg-logo="http://51.158.145.100/picons/logos/logos/154847.png" group-title="BG| BULGARIA",BG| FOLKLOR TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154847&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FOLKLOR" tvg-logo="http://51.158.145.100/picons/logos/logos/154855.png" group-title="BG| BULGARIA",BG| FOLKLOR TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154855&extension=ts
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOODNETWORK" tvg-logo="http://51.158.145.100/picons/logos/logos/154848.png" group-title="BG| BULGARIA",BG| FOOD NETWORK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154848&extension=ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1" tvg-logo="http://51.158.145.100/picons/logos/logos/154861.png" group-title="BG| BULGARIA",BG| HBO 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154861&extension=ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://51.158.145.100/picons/logos/logos/154862.png" group-title="BG| BULGARIA",BG| HBO 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154862&extension=ts
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="http://51.158.145.100/picons/logos/logos/154863.png" group-title="BG| BULGARIA",BG| HBO 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154863&extension=ts
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://51.158.145.100/picons/logos/logos/1571550.png" group-title="BG| BULGARIA",BG| HGTV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1571550&extension=ts
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORYCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154866.png" group-title="BG| BULGARIA",BG| HISTORY CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154866&extension=ts
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORYCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BG| BULGARIA",BG| HISTORY CHANNEL HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154867&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HITMIXMUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154868.png" group-title="BG| BULGARIA",BG| HIT MIX MUSIC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154868&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HOBBYLOV" tvg-logo="http://51.158.145.100/picons/logos/logos/1758315.png" group-title="BG| BULGARIA",BG| HOBBY LOV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758315&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HOPECHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/1508638.png" group-title="BG| BULGARIA",BG| HOPE CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508638&extension=ts
+#EXTINF:-1 tvg-id="StingrayiConcerts" tvg-name="ICONCERTS" tvg-logo="http://51.158.145.100/picons/logos/logos/ICONCERTS.png" group-title="BG| BULGARIA",BG| ICONCERTS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1841724&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XTRA" tvg-logo="http://51.158.145.100/picons/logos/logos/154871.png" group-title="BG| BULGARIA",BG| ID XTRA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XTRA" tvg-logo="http://51.158.145.100/picons/logos/logos/154872.png" group-title="BG| BULGARIA",BG| ID XTRA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154872&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="JIMJAM" tvg-logo="http://51.158.145.100/picons/logos/logos/154874.png" group-title="BG| BULGARIA",BG| JIM JAM
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154874&extension=ts
+#EXTINF:-1 tvg-id="Kanal0" tvg-name="KANAL0" tvg-logo="http://51.158.145.100/picons/logos/logos/KANAL0.png" group-title="BG| BULGARIA",BG| KANAL 0
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=2019950&extension=ts
+#EXTINF:-1 tvg-id="Kanal3" tvg-name="KANAL3FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1510040.png" group-title="BG| BULGARIA",BG| KANAL 3 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1510040&extension=ts
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KINONOVA" tvg-logo="http://51.158.145.100/picons/logos/logos/154876.png" group-title="BG| BULGARIA",BG| KINO NOVA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154876&extension=ts
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LOVENATUREFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1775776.png" group-title="BG| BULGARIA",BG| LOVE NATURE FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1775776&extension=ts
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LOVENATURE" tvg-logo="http://51.158.145.100/picons/logos/logos/1758319.png" group-title="BG| BULGARIA",BG| LOVE NATURE HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758319&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LTVBULGARIA" tvg-logo="http://51.158.145.100/picons/logos/logos/1508641.png" group-title="BG| BULGARIA",BG| LTV BULGARIA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508641&extension=ts
+#EXTINF:-1 tvg-id="MagicTV" tvg-name="MAGIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154878.png" group-title="BG| BULGARIA",BG| MAGIC TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154878&extension=ts
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSPORT1FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png" group-title="BG| BULGARIA",BG| MAX SPORT 1 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=83260&extension=ts
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSPORT1" tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png" group-title="BG| BULGARIA",BG| MAX SPORT 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154879&extension=ts
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSPORT2FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/83259.png" group-title="BG| BULGARIA",BG| MAX SPORT 2 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=83259&extension=ts
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSPORT2" tvg-logo="http://51.158.145.100/picons/logos/logos/154880.png" group-title="BG| BULGARIA",BG| MAX SPORT 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154880&extension=ts
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSPORT3FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/83258.png" group-title="BG| BULGARIA",BG| MAX SPORT 3 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=83258&extension=ts
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSPORT3" tvg-logo="http://51.158.145.100/picons/logos/logos/154881.png" group-title="BG| BULGARIA",BG| MAX SPORT 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154881&extension=ts
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSPORT4FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png" group-title="BG| BULGARIA",BG| MAX SPORT 4 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=83257&extension=ts
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSPORT4" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png" group-title="BG| BULGARIA",BG| MAX SPORT 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154882&extension=ts
+#EXTINF:-1 tvg-id="MovieSTAR" tvg-name="MOVIESTAR" tvg-logo="http://51.158.145.100/picons/logos/logos/154884.png" group-title="BG| BULGARIA",BG| MOVIE STAR
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154884&extension=ts
+#EXTINF:-1 tvg-id="MovieSTAR" tvg-name="MOVIESTARFULL" tvg-logo="http://51.158.145.100/picons/logos/logos/154883.png" group-title="BG| BULGARIA",BG| MOVIE STAR FULL HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154883&extension=ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTVCLASSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/1616434.png" group-title="BG| BULGARIA",BG| MTV CLASSIC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1616434&extension=ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTVFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="BG| BULGARIA",BG| MTV FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1616435&extension=ts
+#EXTINF:-1 tvg-id="MTVHits" tvg-name="MTVHITS" tvg-logo="http://51.158.145.100/picons/logos/logos/1616437.png" group-title="BG| BULGARIA",BG| MTV HITS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1616437&extension=ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATGEO" tvg-logo="http://51.158.145.100/picons/logos/logos/154892.png" group-title="BG| BULGARIA",BG| NAT GEO HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154892&extension=ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NATGEOWILD" tvg-logo="http://51.158.145.100/picons/logos/logos/154893.png" group-title="BG| BULGARIA",BG| NAT GEO WILD HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154893&extension=ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONALGEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/logos/154886.png" group-title="BG| BULGARIA",BG| NATIONAL GEOGRAPHIC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154886&extension=ts
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NICKJR" tvg-logo="http://51.158.145.100/picons/logos/logos/154895.png" group-title="BG| BULGARIA",BG| NICK JR
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154895&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="http://51.158.145.100/picons/logos/logos/154896.png" group-title="BG| BULGARIA",BG| NICKELODEON
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154896&extension=ts
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="NICKTOONS" tvg-logo="http://51.158.145.100/picons/logos/logos/1758313.png" group-title="BG| BULGARIA",BG| NICKTOONS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758313&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALGIA" tvg-logo="http://51.158.145.100/picons/logos/logos/1758109.png" group-title="BG| BULGARIA",BG| NOSTALGIA HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758109&extension=ts
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="http://51.158.145.100/picons/logos/logos/154887.png" group-title="BG| BULGARIA",BG| NOVA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154887&extension=ts
+#EXTINF:-1 tvg-id="NovaNews" tvg-name="NOVANEWS" tvg-logo="http://51.158.145.100/picons/logos/logos/1508635.png" group-title="BG| BULGARIA",BG| NOVA NEWS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508635&extension=ts
+#EXTINF:-1 tvg-id="NovaNews" tvg-name="NOVANEWS" tvg-logo="http://51.158.145.100/picons/logos/logos/1141345.png" group-title="BG| BULGARIA",BG| NOVA NEWS HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1141345&extension=ts
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NOVASPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/154888.png" group-title="BG| BULGARIA",BG| NOVA SPORT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154888&extension=ts
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NOVASPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/154889.png" group-title="BG| BULGARIA",BG| NOVA SPORT HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154889&extension=ts
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="http://51.158.145.100/picons/logos/logos/154890.png" group-title="BG| BULGARIA",BG| NOVA TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154890&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="http://51.158.145.100/picons/logos/logos/154891.png" group-title="BG| BULGARIA",BG| NRJ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154891&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PERVIYKANAL" tvg-logo="http://51.158.145.100/picons/logos/logos/154898.png" group-title="BG| BULGARIA",BG| PERVIY KANAL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154898&extension=ts
+#EXTINF:-1 tvg-id="PickBoxTV" tvg-name="PICKBOX1" tvg-logo="http://51.158.145.100/picons/logos/logos/PICKBOX1.png" group-title="BG| BULGARIA",BG| PICKBOX 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=2019595&extension=ts
+#EXTINF:-1 tvg-id="Planeta" tvg-name="PLANETA" tvg-logo="http://51.158.145.100/picons/logos/logos/154908.png" group-title="BG| BULGARIA",BG| PLANETA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154908&extension=ts
+#EXTINF:-1 tvg-id="Planeta" tvg-name="PLANETAFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154900.png" group-title="BG| BULGARIA",BG| PLANETA FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154900&extension=ts
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-name="PLANETAFOLKFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154899.png" group-title="BG| BULGARIA",BG| PLANETA FOLK FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154899&extension=ts
+#EXTINF:-1 tvg-id="Planeta" tvg-name="PLANETA" tvg-logo="http://51.158.145.100/picons/logos/logos/154901.png" group-title="BG| BULGARIA",BG| PLANETA TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154901&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="PP" tvg-logo="http://51.158.145.100/picons/logos/logos/154902.png" group-title="BG| BULGARIA",BG| PP TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154902&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RETROMUSIC" tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BG| BULGARIA",BG| RETRO MUSIC TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508639&extension=ts
+#EXTINF:-1 tvg-id="Rimeks" tvg-name="RIMEX" tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BG| BULGARIA",BG| RIMEX TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508637&extension=ts
+#EXTINF:-1 tvg-id="RING" tvg-name="RING" tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BG| BULGARIA",BG| RING HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154910&extension=ts
+#EXTINF:-1 tvg-id="RING" tvg-name="RING" tvg-logo="http://51.158.145.100/picons/logos/logos/154911.png" group-title="BG| BULGARIA",BG| RING TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154911&extension=ts
+#EXTINF:-1 tvg-id="Rodina" tvg-name="RODINA" tvg-logo="http://51.158.145.100/picons/logos/logos/154913.png" group-title="BG| BULGARIA",BG| RODINA TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154913&extension=ts
+#EXTINF:-1 tvg-id="DIVARomania" tvg-name="ROMA" tvg-logo="http://51.158.145.100/picons/logos/logos/154912.png" group-title="BG| BULGARIA",BG| ROMA TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154912&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="SHOWTIME1FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985805.png" group-title="BG| BULGARIA",BG| SHOWTIME 1 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985805&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="SHOWTIME2FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985806.png" group-title="BG| BULGARIA",BG| SHOWTIME 2 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985806&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SHUMENFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/SHUMENT.png" group-title="BG| BULGARIA",BG| SHUMEN TV FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1762852&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTAL" tvg-logo="http://51.158.145.100/picons/logos/logos/1447191.png" group-title="BG| BULGARIA",BG| SPORTAL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1447191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STARCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154849.png" group-title="BG| BULGARIA",BG| STAR CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154849&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STARCRIME" tvg-logo="http://51.158.145.100/picons/logos/logos/154856.png" group-title="BG| BULGARIA",BG| STAR CRIME
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154856&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STARCRIME" tvg-logo="http://51.158.145.100/picons/logos/logos/154857.png" group-title="BG| BULGARIA",BG| STAR CRIME HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154857&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STARLIFE" tvg-logo="http://51.158.145.100/picons/logos/logos/154858.png" group-title="BG| BULGARIA",BG| STAR LIFE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154858&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STARLIFE" tvg-logo="http://51.158.145.100/picons/logos/logos/154859.png" group-title="BG| BULGARIA",BG| STAR LIFE HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154859&extension=ts
+#EXTINF:-1 tvg-id="SuperToons" tvg-name="SUPPERTOONS" tvg-logo="http://51.158.145.100/picons/logos/logos/1758312.png" group-title="BG| BULGARIA",BG| SUPPERTOONS HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758312&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="THEVOICE" tvg-logo="http://51.158.145.100/picons/logos/logos/154928.png" group-title="BG| BULGARIA",BG| THE VOICE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154928&extension=ts
+#EXTINF:-1 tvg-id="TheVoice" tvg-name="THEVOICEFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1529010.png" group-title="BG| BULGARIA",BG| THE VOICE FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1529010&extension=ts
+#EXTINF:-1 tvg-id="TheWorld" tvg-name="THEWORLD" tvg-logo="http://51.158.145.100/picons/logos/logos/1758310.png" group-title="BG| BULGARIA",BG| THE WORLD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758310&extension=ts
+#EXTINF:-1 tvg-id="thisisbg" tvg-name="THISBULGARIA" tvg-logo="http://51.158.145.100/picons/logos/logos/1508640.png" group-title="BG| BULGARIA",BG| THIS IS BULGARIA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1508640&extension=ts
+#EXTINF:-1 tvg-id="TiankovFolk" tvg-name="TIANKOVFOLK" tvg-logo="http://51.158.145.100/picons/logos/logos/154930.png" group-title="BG| BULGARIA",BG| TIANKOV FOLK HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154930&extension=ts
+#EXTINF:-1 tvg-id="TiankovFolk" tvg-name="TIANKOVORIENTFOLK" tvg-logo="http://51.158.145.100/picons/logos/logos/154931.png" group-title="BG| BULGARIA",BG| TIANKOV ORIENT FOLK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154931&extension=ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://51.158.145.100/picons/logos/logos/154918.png" group-title="BG| BULGARIA",BG| TLC
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154918&extension=ts
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TRACESPORTSTARS" tvg-logo="http://51.158.145.100/picons/logos/logos/154932.png" group-title="BG| BULGARIA",BG| TRACE SPORT STARS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154932&extension=ts
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TRACESPORTSTARS" tvg-logo="http://51.158.145.100/picons/logos/logos/154933.png" group-title="BG| BULGARIA",BG| TRACE SPORT STARS HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154933&extension=ts
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TRAVELCHANNEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154919.png" group-title="BG| BULGARIA",BG| TRAVEL CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154919&extension=ts
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TRAVELCHANNELFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/154934.png" group-title="BG| BULGARIA",BG| TRAVEL CHANNEL FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154934&extension=ts
+#EXTINF:-1 tvg-id="Travel" tvg-name="TRAVEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154935.png" group-title="BG| BULGARIA",BG| TRAVEL TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154935&extension=ts
+#EXTINF:-1 tvg-id="Travel" tvg-name="TRAVEL" tvg-logo="http://51.158.145.100/picons/logos/logos/154920.png" group-title="BG| BULGARIA",BG| TRAVEL TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154920&extension=ts
+#EXTINF:-1 tvg-id="TV999" tvg-name="999FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1769933.png" group-title="BG| BULGARIA",BG| TV 999 FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1769933&extension=ts
+#EXTINF:-1 tvg-id="TVDarts" tvg-name="ARTFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BG| BULGARIA",BG| TV ART FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1512916&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAGORA" tvg-logo="http://51.158.145.100/picons/logos/logos/1491966.png" group-title="BG| BULGARIA",BG| TV ZAGORA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1491966&extension=ts
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://51.158.145.100/picons/logos/logos/154925.png" group-title="BG| BULGARIA",BG| TV1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154925&extension=ts
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://51.158.145.100/picons/logos/logos/154926.png" group-title="BG| BULGARIA",BG| TV1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154926&extension=ts
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVNBULGARIA" tvg-logo="http://51.158.145.100/picons/logos/logos/1491965.png" group-title="BG| BULGARIA",BG| TVN BULGARIA
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1491965&extension=ts
+#EXTINF:-1 tvg-id="TVT" tvg-name="TVTFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1758309.png" group-title="BG| BULGARIA",BG| TVT FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1758309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-logo="http://51.158.145.100/picons/logos/logos/1446558.png" group-title="BG| BULGARIA",BG| V2BEAT TV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1446558&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVO'90S" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '90S
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898943&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVO'80S" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '80S
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898944&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVO'70S" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO '70S
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898945&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVO2K" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO 2K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898942&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOCOUNTRY" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO COUNTRY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898941&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOHIPHOP" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO HIP-HOP
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898940&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOLATINO" tvg-logo="http://51.158.145.100/picons/logos/logos/1902537.png" group-title="BG| BULGARIA",BG| VEVO LATINO
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1902537&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOPOP" tvg-logo="http://51.158.145.100/picons/logos/logos/1902536.png" group-title="BG| BULGARIA",BG| VEVO POP
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1902536&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOR&B" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BG| BULGARIA",BG| VEVO R&B
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1898939&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VEVOREGGAETON&TRAP" tvg-logo="http://51.158.145.100/picons/logos/logos/1902535.png" group-title="BG| BULGARIA",BG| VEVO REGGAETON & TRAP
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1902535&extension=ts
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="VIASATEXPLORER" tvg-logo="http://51.158.145.100/picons/logos/logos/154938.png" group-title="BG| BULGARIA",BG| VIASAT EXPLORER
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154938&extension=ts
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="VIASATHISTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/154939.png" group-title="BG| BULGARIA",BG| VIASAT HISTORY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154939&extension=ts
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="VIASATHISTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/154940.png" group-title="BG| BULGARIA",BG| VIASAT HISTORY HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154940&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VIASATKINOPREMIERE" tvg-logo="http://51.158.145.100/picons/logos/logos/154921.png" group-title="BG| BULGARIA",BG| VIASAT KINO PREMIERE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154921&extension=ts
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="VIASATNATURE" tvg-logo="http://51.158.145.100/picons/logos/logos/154941.png" group-title="BG| BULGARIA",BG| VIASAT NATURE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154941&extension=ts
+#EXTINF:-1 tvg-id="SoulAndPepper" tvg-name="VIVACOMARENAFHD" tvg-logo="http://51.158.145.100/picons/logos/logos/1985800.png" group-title="BG| BULGARIA",BG| VIVACOM ARENA FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1985800&extension=ts
+#EXTINF:-1 tvg-id="VTK" tvg-name="VTK" tvg-logo="http://51.158.145.100/picons/logos/logos/154937.png" group-title="BG| BULGARIA",BG| VTK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154937&extension=ts
+#EXTINF:-1 tvg-id="WildTV" tvg-name="WILD" tvg-logo="http://51.158.145.100/picons/logos/logos/154942.png" group-title="BG| BULGARIA",BG| WILD TV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154942&extension=ts
+#EXTINF:-1 tvg-id="wness" tvg-name="WNESSTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154943.png" group-title="BG| BULGARIA",BG| WNESSTV
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154943&extension=ts
+#EXTINF:-1 tvg-id="wness" tvg-name="WNESSTV" tvg-logo="http://51.158.145.100/picons/logos/logos/154944.png" group-title="BG| BULGARIA",BG| WNESSTV HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=154944&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="######BULGARIAⱽᴵᴾᴿᴬᵂ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1862377.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",###### BULGARIA ⱽᴵᴾ ᴿᴬᵂ ######
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862377&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24KITCHENⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862376&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ACTIONBOXⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862375&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AGROⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862374.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862374&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BALKANIKAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862373.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862373&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="+ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862372.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BG + ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862372&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERGBULGARIAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862371.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862371&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT1ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862370.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862370&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT2ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862369.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862369&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT3ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862368.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT4ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862367.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BTKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862366.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862366&extension=ts
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="BTVACTIONⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862365.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862365&extension=ts
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="BTVCINEMAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862364.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862364&extension=ts
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="BTVCOMEDYⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862363.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862363&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BTVSTORYⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862362.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BTVⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862361.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BTV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862361&extension=ts
+#EXTINF:-1 tvg-id="BulgariaONAIR" tvg-name="BULGARIAONAIRⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862360.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862360&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONNETWORKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862359.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862359&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOXⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862358.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862358&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CITYⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862357.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862357&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CODEFASHIONⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862356.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862356&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CODEHEALTHⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862355.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862355&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYBOXⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862354.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862354&extension=ts
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMAFAMILYⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862353.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862353&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DIEMASPORT1ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862352.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862352&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="DIEMASPORT2ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862351&extension=ts
+#EXTINF:-1 tvg-id="DiemaSport3" tvg-name="DIEMASPORT3ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862350.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862350&extension=ts
+#EXTINF:-1 tvg-id="Diema" tvg-name="DIEMAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862349.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862349&extension=ts
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DOCUBOXⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862348.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862348&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTVⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862347.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| DSTV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862347&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EKIDSⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862346.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862346&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWSⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862345.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862345&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EVROKOMⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862344.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862344&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FENFOLKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862343.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862343&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FENⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862342.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FEN ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862342&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOXARTHOUSEⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862341.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862341&extension=ts
+#EXTINF:-1 tvg-id="FilmBoxExtra" tvg-name="FILMBOXEXTRAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862340.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862340&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOXSTARSⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862339.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862339&extension=ts
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="FILMBOXⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862338.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862338&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL3ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862337.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862337&extension=ts
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KINONOVAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862336.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862336&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MAGICⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862335.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862335&extension=ts
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSPORT1ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862334.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862334&extension=ts
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSPORT2ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862333.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862333&extension=ts
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSPORT3ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862332.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862332&extension=ts
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSPORT4ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862331&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEONⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862330.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862330&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKJRⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862329.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862329&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVANEWSⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862328.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862328&extension=ts
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NOVASPORTⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862327.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862327&extension=ts
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862326.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862326&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PLANETAFOLKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862325.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862325&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PLANETAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862324.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862324&extension=ts
+#EXTINF:-1 tvg-id="RING" tvg-name="RINGⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862323.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| RING ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862323&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RODINAⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862322.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="THEVOICEⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862321.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TIANKOVFOLKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862320.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862320&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TIANKOVORIENTFOLKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862319.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862319&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862318.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862318&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="1ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862317.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862317&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="7/8ⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862316.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862316&extension=ts
+#EXTINF:-1 tvg-id="ViasatExplore" tvg-name="VIASATEXPLOREⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862315.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862315&extension=ts
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="VIASATHISTORYⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862314.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862314&extension=ts
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="VIASATNATUREⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862313.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862313&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="VTKⱽᴵᴾᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/1862312.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG| VTK ⱽᴵᴾ ᴿᴬᵂ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1862312&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVENATURE" tvg-logo="" group-title="BG| BULGARIA",BG|  LOVE NATURE 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITEROCKXMETAL" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE ROCK X METAL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904739&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITERAPGAME" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE RAP GAME
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904738&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITER&BFEELS" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE R&B FEELS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904737&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITER&BCLASSICJAMS" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE R&B CLASSIC JAMS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904736&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITENUEVOLATINO" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE NUEVO LATINO
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904735&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITEHITS" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE HITS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904734&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITEHIPHOPEVOLUTION" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE HIP-HOP EVOLUTION
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904733&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITEGOSPEL" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE GOSPEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITECOUNTRYTODAY" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE COUNTRY TODAY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904731&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITECLASSICCOUNTRY" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CLASSIC COUNTRY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904730&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITECHRISTIANHITS" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CHRISTIAN HITS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904729&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITECELEBRATES" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE CELEBRATES
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904728&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITE90STHROWBACK" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 90S THROWBACK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904727&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITE80SFLASHBACK" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 80S FLASHBACK
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904726&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="XITE60S&70SGROOVE" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BG| BULGARIA",BG| XITE 60S & 70S GROOVE
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:64:22:12&stream=1904725&extension=ts
